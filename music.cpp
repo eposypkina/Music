@@ -188,6 +188,7 @@ switch (seek_type)
 			cout<<"\n";
 		}
 	}
+getchar();	
 return;	
 }
 // Удаление записи из каталога
